@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+`
+My unique skill is that I’m creative-minded and that helps me to see things from a different perspective (true-eye).
+Rich knowledge of object-oriented design, data-structures, algorithms and familiar with cryptography & blockchain.
+`
+
+Enjoy your life
+
 <!--
 **true-eye/true-eye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
