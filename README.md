@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 `
-My unique skill is that I’m creative-minded and that helps me to see things from a different perspective (true-eye).
-Rich knowledge of object-oriented design, data-structures, algorithms and familiar with cryptography & blockchain.
+My unique skill is that I’m creative-minded and that helps me to see things from a different perspective (true-eye). Rich knowledge of data-structures, algorithms, decentralization and enthusiastic with blockchain & finance
 `
 
 Enjoy your life
@@ -23,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 <br/><br/>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=true-eye&show_icons=true&theme=monokai&count_private=true">
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=true-eye&show_icons=true&theme=monokai&count_private=true">
