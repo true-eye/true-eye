@@ -1,12 +1,7 @@
-### Hi there 👋
-
-`
-My unique skill is that I’m creative-minded and that helps me to see things from a different perspective (true-eye). Rich knowledge of data-structures, algorithms, decentralization and enthusiastic with blockchain & finance
-`
-- My StackOverflow: https://stackoverflow.com/users/13242024/true-eye?tab=profile
-- My CodeSignal: https://app.codesignal.com/profile/true-eye
-- My CodeSandbox: https://codesandbox.io/u/true-eye
-- My CodeChef: https://www.codechef.com/users/shasta0312
+https://stackoverflow.com/users/13242024/true-eye?tab=profile
+https://app.codesignal.com/profile/true-eye
+https://codesandbox.io/u/true-eye
+https://www.codechef.com/users/shasta0312
 
 <!--
 **true-eye/true-eye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
