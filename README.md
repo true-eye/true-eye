@@ -1,11 +1,3 @@
-https://stackoverflow.com/users/13242024/true-eye?tab=profile
-<br/>
-https://app.codesignal.com/profile/true-eye
-<br/>
-https://codesandbox.io/u/true-eye
-<br/>
-https://www.codechef.com/users/shasta0312
-
 <!--
 **true-eye/true-eye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
