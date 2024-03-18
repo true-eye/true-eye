@@ -1,4 +1,4 @@
-Working as a full stack developer at **@SecondSpectrum**
+Working as a full stack developer at **@SecondSpectrum** throught **@Trinet**
 
 Contributed to **@Leverj, @Union.ai, @flyte, @Commonwealth, @Kira, @CoBounce, @Voyyp, @ChainX, @Appics, @X9Developers, @InstaDApp, @Acria, @TFD**, etc
 
